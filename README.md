@@ -1,3 +1,4 @@
+#C++
 # Problem 1: Find the Word
 
 In this problem we have given a dictionary and the frequencey of each word as input. We have to find the word in the dictionary and if the word is present 
@@ -27,3 +28,9 @@ Step 2. G++ must be installed with all settings. <br>
 Step 3. Go to the dictionary folder using cmd or terminal. <br>
 Step 4. Type g++ ReverseSearch.cpp <br>
 Step 5. Type .\a.exe <br>
+
+
+# FrontEnd 
+We have to make a signup form which includes filed like FirstName, LastName, Email, Password 
+To run the webpage you can use chrome/Mozilla or Microsoft Edge as per your choice
+Open test.html using your browser
