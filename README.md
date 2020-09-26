@@ -9,11 +9,11 @@ We will read the CSV file and store all the values in a vector pair and pass the
 
 ## To run the code use C++ version 11
 
-Step 1. Clone the repository 
-Step 2. Make sure g++ is installed in the system and all the enviornment variable is set inorder to avoid any system error
-Step 3. With the help of the terminal or cmd go the Dictionary folder which you have cloned.
-Step 4. Type g++ FindWord.cpp        // This is basically used to compile the code
-Step 5. Type .\a.exe                // code run from this command
+Step 1. Clone the repository <br>
+Step 2. Make sure g++ is installed in the system and all the enviornment variable is set inorder to avoid any system error<br>
+Step 3. With the help of the terminal or cmd go the Dictionary folder which you have cloned.<br>
+Step 4. Type g++ FindWord.cpp        // This is basically used to compile the code<br>
+Step 5. Type .\a.exe                // code run from this command<br>
 
 
 # Problem 2: ReverseSearch 
