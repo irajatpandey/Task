@@ -22,8 +22,8 @@ Each node is associated with some integer and we have backtrace that node and fi
 
 
 ## To run the code use C++ version 11 or higher version
-Step 1. Clone the repository
-Step 2. G++ must be installed with all settings.
-Step 3. Go to the dictionary folder using cmd or terminal.
-Step 4. Type g++ ReverseSearch.cpp
-Step 5. Type .\a.exe
+Step 1. Clone the repository <br>
+Step 2. G++ must be installed with all settings. <br>
+Step 3. Go to the dictionary folder using cmd or terminal. <br>
+Step 4. Type g++ ReverseSearch.cpp <br>
+Step 5. Type .\a.exe <br>
